@@ -1,6 +1,6 @@
 
   <h1>Shut up Tidia!</h1>
-  <em>Extensão para o Chrome que mantém sua conta sempre autenticada e dá um chega pra lá nas mensagens de sessão expirada</em>
+  <em>Extensão para o Chrome que mantém sua conta sempre autenticada e dá um chega pra lá nas constantes mensagens de sessão expirada</em>
   
   <p>
   <h4>Como utilizar</h4>

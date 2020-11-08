@@ -1,5 +1,5 @@
-// atenticação a cada dez minutos
-const autenticationInterval = 1000*60*10
+// atenticação a cada cinco minutos
+const autenticationInterval = 1000*60*5
 
 const autenticationTimer = setInterval( () => {
 
@@ -7,13 +7,15 @@ const autenticationTimer = setInterval( () => {
             let timeToResponse = setTimeout( () => {
                 try {
                     keep_session_alive();
-                    // console.log('autenticação renovada');
+                    console.log('Bomb has been defused!');
                 }
                 catch (e) {
-                    console.log('algo deu errado');
+                    console.log('Need backup');
+                    console.log('I\'m hit! Need assistance!');
+                    console.log(e);
                 }
             }, 5000);
         }
-        // else
-            // console.log('bored to death');
+        else
+            console.log('sector clear!');
     }, autenticationInterval)

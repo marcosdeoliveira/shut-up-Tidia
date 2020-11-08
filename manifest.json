@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Autenticador Tidia",
+  "version": "1",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://tidia4.ufabc.edu.br/portal/*"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ]
+}

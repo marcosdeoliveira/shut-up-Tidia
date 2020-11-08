@@ -20,7 +20,7 @@
   <p>
   <h4>Status esperados:</h4>
   <ol>
-  <li><<code>sector clear</code>: aguardando solicitação de autenticação [log a cada 5 min]</li>
+  <li><<code>sector clear</code>: aguardando solicitação de autenticação (log a cada 5 min)</li>
   <li><code>Bomb has been defused</code>:atenticação validada com sucesso</li>
   <li><code>I'm hit! Need assistance</code>:a extensão não funcionou e as mensagens voltaram =(</li>
   </ol>

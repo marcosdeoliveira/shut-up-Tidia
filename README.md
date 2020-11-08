@@ -19,11 +19,11 @@
   
   <p>
   <h4>Status esperados:</h4>
-  <ol>
+  <ul>
   <li><code>sector clear</code>: aguardando solicitação de autenticação <em>(log a cada 5 min)</em></li>
   <li><code>Bomb has been defused</code>:atenticação validada com sucesso</li>
   <li><code>I'm hit! Need assistance</code>:a extensão não funcionou e as mensagens voltaram =(</li>
-  </ol>
+  </ul>
   </p>
   
   <p><em>Curtiu?Você pode ajudar a desenvolver desenvolvendo uma representação mais visual de que está tudo bem!</em></p>

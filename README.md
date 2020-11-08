@@ -18,7 +18,7 @@
   <br><code>Command+Option+J</code> (Mac)</p>
   
   <p>
-  <h4>Status esperados:</h4>
+  <h4>Status esperados</h4>
   <ul>
   <li><code>sector clear</code>: aguardando solicitação de autenticação <em>(log a cada 5 min)</em></li>
   <li><code>Bomb has been defused</code>:atenticação validada com sucesso</li>

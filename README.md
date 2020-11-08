@@ -12,9 +12,19 @@
   <li>Verifique se a extensão está habilitada</li>
   </ol>
   E pronto! Basta atualizar a aba do Tidia que já está tudo funcionando =)</p>
-  
-  <p>Voce pode verificar se tudo está em ordem através do console no Chrome Dev Tools:<br>
+
+  <p>Voce pode verificar se tudo está em ordem, por enquanto, através do console no Chrome Dev Tools:<br>
   <code>Control+Shift+J</code> (Windows, Linux, Chrome OS)
   <br><code>Command+Option+J</code> (Mac)</p>
-  <p><em>ou pode ajudar a desenvolver uma representação grafica de que está tudo bem!</em></p>
+  
+  <p>
+  <h4>Status esperados:</h4>
+  <ol>
+  <li><<code>sector clear</code>: aguardando solicitação de autenticação [log a cada 5 min]</li>
+  <li><code>Bomb has been defused</code>:atenticação validada com sucesso</li>
+  <li><code>I'm hit! Need assistance</code>:a extensão não funcionou e as mensagens voltaram =(</li>
+  </ol>
+  </p>
+  
+  <p><em>Curtiu?Você pode ajudar a desenvolver desenvolvendo uma representação mais visual de que está tudo bem!</em></p>
   

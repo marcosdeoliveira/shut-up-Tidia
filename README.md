@@ -26,5 +26,6 @@
   </ul>
   </p>
   
-  <p><em>Curtiu?Você pode ajudar a desenvolver desenvolvendo uma representação mais visual de que está tudo bem!</em></p>
+  <p><em>Curtiu?
+  <br>Você pode ajudar a desenvolver desenvolvendo uma representação mais visual de que está tudo bem!</em></p>
   
